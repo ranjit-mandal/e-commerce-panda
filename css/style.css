@@ -10,6 +10,8 @@ width: 100px;
 }
 .panda-slide .carousel-item{
     background-color:#fbe7ca;
-    border-radius: 1em;
-    
+    border-radius: 1em;    
+}
+footer{
+    background-image: linear-gradient(90deg, skyblue, lightgreen);
 }
